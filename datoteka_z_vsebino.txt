@@ -1,1 +1,1 @@
-ECHO is on.
+To je sprememba v datoteki na glavni veji
