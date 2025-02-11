@@ -1,0 +1,5 @@
+13:07:05,50 ~1uporabnik  
+13:07:05,55 ONNECTION ERROR Admin | CPU-USAGE: 48.50 
+13:09:44,81 ~1uporabnik  
+13:10:05,76 ~1uporabnik  
+13:13:41,62 ~1uporabnik  
